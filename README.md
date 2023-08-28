@@ -1,8 +1,3 @@
-# React + Vite
+# Form Preview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![f1](https://github.com/Shubham7906/react-validation-form/assets/76210714/c5b85601-0026-428c-958e-4eb5817c5cd2)
